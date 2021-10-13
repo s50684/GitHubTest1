@@ -1,5 +1,5 @@
 # GitHubTest1
-Das ist das erste Repository
+Hier möchte ich auf etwas hinweisen. Das ist das erste Repository
 
 Das ist eine Änderung
 
